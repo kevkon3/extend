@@ -1,9 +1,0 @@
-com\kevkon\extend\model\TransactionResponse.class
-com\kevkon\extend\model\User.class
-com\kevkon\extend\model\VirtualCardsResponse.class
-com\kevkon\extend\config\SessionConfig.class
-com\kevkon\extend\model\VirtualCard.class
-com\kevkon\extend\model\LoginResponse.class
-com\kevkon\extend\exception\ServiceException.class
-com\kevkon\extend\model\LoginRequest.class
-com\kevkon\extend\model\Transaction.class
